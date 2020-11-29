@@ -1,0 +1,119 @@
+
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: white url(../imagens/fundo.jpg) repeat-x;
+	font-family: 'Sansita Swashed', cursive;
+}
+#container{
+	width: 1300px;
+	margin: 0;
+}
+#logo h1{
+	float: left;
+}
+#logo a{
+	width: 248px;
+	height: 21px;
+	display: block;
+	color: white;
+	text-decoration: none;
+	
+}
+nav ul{
+	list-style: none;
+	margin: 20px;
+	float: right;
+}
+nav ul li{
+ float: left;
+}
+nav ul li a:link{
+	display: block;
+	margin-right: 20px;
+	padding: 5px;
+	text-decoration: none;
+}
+nav ul li a:visited{
+	color: white;
+}
+nav ul li a:hover{
+	color: blue;
+	border-radius: 5px;
+	background-color: white;
+}
+div{
+	padding: 15px;
+}
+div h2{
+	padding-top: 20px;
+	text-align: center;
+}
+form input{
+	height: 34px;
+	width: 60%;
+	margin-left: 220px;
+	border-radius: 4px;
+	color: blue;
+}
+ #butao{
+ 	padding: 4px;
+	width: 38px;
+	height: 34px;
+	background-color: white;
+	border-radius: 4px;	
+	align-items: center;
+	
+}
+img{
+	width: 25px;
+	height: 20px;
+
+}
+p{
+	text-align: center;
+	padding: 20px;
+}
+div #principal{
+	background-image: url(../imagens/quarto.jpg);
+	padding-top: 30px;
+}
+.cor{
+	color: white;
+}
+div #anunciar a{
+	background-color: black;
+	width: 20px;
+	margin-left: 550px;
+	border-radius: 3px;
+	color: white;
+	padding: 10px;
+	text-decoration: none;
+}
+#sobre{
+	margin: 20px;
+	
+}
+footer{
+	background: white url(../imagens/fundo.jpg);
+	padding: 300px 0;
+	margin: 0
+}
+footer a{
+	color: white;
+	text-decoration: none;
+	padding: 5px;
+}
+footer p{
+	text-align: center;
+	color: white;
+}
+i{
+	color: white;
+	font-size: 3em;
+	padding: 5px;
+	margin: 10px;
+}
+
